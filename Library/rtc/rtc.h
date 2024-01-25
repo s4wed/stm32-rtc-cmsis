@@ -1,10 +1,10 @@
 /*---------------------------------------------------------*/
-// Project Title:     Stm32 RTC Library			               //
-// Date:	            2019/July/23		                     //
-// Version: 	        1.0v			                           //
-// Author:	          Saeed Golizadeh			                 //
-// Email:	            sagolizadeh@gmail.com    		         //
-// Site:	            Electroplus.ir    		               //
+// Project Title:     Stm32 RTC Library			   //
+// Date:	      2019/July/23		           //
+// Version: 	      1.0v			           //
+// Author:	      Saeed Golizadeh			   //
+// Email:	      sagolizadeh@gmail.com    		   //
+// Site:	      Electroplus.ir    		   //
 /*---------------------------------------------------------*/
 
 #ifndef  __RTC_H
